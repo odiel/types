@@ -1,0 +1,6 @@
+namespace Types;
+
+interface TypesInterface
+{
+
+}
